@@ -1,0 +1,7 @@
+title: "List of useful Minecraft websites"
+description: "A list of uselful minecraft websites, tools, software, mods, ..."
+theme: minima
+url: "https://mctools.github.io"
+markdown: kramdown
+minima:
+ skin: solarized-dark
