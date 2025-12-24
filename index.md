@@ -1,6 +1,3 @@
-# Content
-
-# List
 ## Wiki & Knowledgebase
 
 ### Base Game
