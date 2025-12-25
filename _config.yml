@@ -4,5 +4,10 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 markdown: kramdown
+
 minima:
   skin: dark
+
+exclude:
+  - README.md
+  - .github
