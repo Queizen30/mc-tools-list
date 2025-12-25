@@ -11,3 +11,4 @@ minima:
 exclude:
   - README.md
   - .github
+  - NOTES.md
