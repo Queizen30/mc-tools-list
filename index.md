@@ -21,7 +21,7 @@ title: Useful Minecraft tools
 - [Forge](https://files.minecraftforge.net) - Forge mod loader downloads & versions
 - [Quilt](https://quiltmc.org) - Quilt project (fork/extension of Fabric)
 
-# Server Software
+## Server Software
 - [Paper](https://papermc.io) - Paper server (performance-focused)
 - [Spigot](https://spigotmc.org) - Spigot project & plugin community
 - [Sponge](https://spongepowered.org) - Sponge project (servers/plugins)
@@ -30,4 +30,6 @@ title: Useful Minecraft tools
 - [Leaves](https://leavesmc.org) - Fork of paper aimibg for fixing broken vanilla properties
 - [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - High performance fork of paper
 - [Purpur](https://purpurmc.org) - Fork of paper with more customizability
-- 
+- [Velocity](https://papermc.io/software/velocity) - Server proxy made by PaperMC
+- [Nukkit](https://cloudburstmc.org/articles/) - Server Software for MCPE
+[More...](https://lestegii.github.io/server-software/)
