@@ -46,6 +46,8 @@ title: ㅤ
 - [ModDB](https://www.moddb.com/games/minecraft)
 - [Planetminecraft](https://www.planetminecraft.com/mods/)
 - [Feed the Beast](https://feed-the-beast.com) (Modpacks)
+- [NotEnoughMods](https://bot.notenoughmods.com/)
+<br>_I don't gurantee that any of the mods listed at these pages are safe. Use at your own risk._
 
 ## Texture Packs
 - [Planetminecraft](https://www.planetminecraft.com)
