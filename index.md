@@ -44,5 +44,19 @@ title: Useful Minecraft tools
 - [Modrinth]( https://modrinth.com)
 - [Nexus Mods](https://www.nexusmods.com/minecraft)
 - [ModDB](https://www.moddb.com/games/minecraft)
+- [Planetminecraft](https://www.planetminecraft.com/mods/)
 - [Feed the Beast](https://feed-the-beast.com) (Modpacks)
-- []
+
+## Texture Packs
+- [Planetminecraft](https://www.planetminecraft.com)
+- [ResourcePack.net](https://resourcepack.net)
+- [Curseforge](https://www.curseforge.com/minecraft/texture-packs)
+- [Modrinth](https://modrinth.com/)
+- [Minecraft Forum Resource Packs](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs)
+
+## Shaders
+- [Optifine](https://optifine.net) - Classic shader support + performance
+- [Iris Shaders](https://www.irisshaders.dev/) - Iris + Sodium support
+- [SEUS Shaders](https://sonicether.com/seus) - (Sonic Ether’s Unbelievable Shaders)
+- [Sildurs Shaders](https://sildurs-shaders.github.io/)
+- [TexturePack.net](https://resourcepack.net/category/shader-packs/)
