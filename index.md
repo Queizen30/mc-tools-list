@@ -113,4 +113,4 @@ title: ㅤ
 
 ## Minecraft subreddits
 - [r/Minecraft](https://www.reddit.com/r/Minecraft/) - Everything from News to Addons to Discussions
-- [r/MinecraftMemes](https://www.reddit.com/r/MinecraftMemes/) - Well, memes. _What a surprise!_
+- [r/MinecraftMemes](https://www.reddit.com/r/MinecraftMemes/)
