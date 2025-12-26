@@ -114,3 +114,8 @@ title: ㅤ
 ## Minecraft subreddits
 - [r/Minecraft](https://www.reddit.com/r/Minecraft/) - Everything from News to Addons to Discussions
 - [r/MinecraftMemes](https://www.reddit.com/r/MinecraftMemes/)
+- [r/minecraftsuggestions](https://www.reddit.com/r/minecraftsuggestions)
+- [r/mcservers](https://www.reddit.com/r/mcservers/) - Serverlist
+- [r/Mojira](https://www.reddit.com/r/Mojira/) - Subreddit of the minecraft bugtracker (not for bug reports)
+- [r/MinecraftDungeons](https://www.reddit.com/r/MinecraftDungeons)
+- [r/realms](https://www.reddit.com/r/realms/) - Everything about BE Realms (the official server hosting)
