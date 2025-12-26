@@ -8,7 +8,7 @@ title: ㅤ
 - [Official Minecraft Help](https://help.minecraft.net) - Official support & knowledge base
 - [Minecraft Wiki](https://minecraft.wiki) - Unofficial game documentation, tutorials, etc.
 - [Tutorials](https://minecraft.wiki/w/Tutorials) - Lots of tutorials from the Minecraft Wiki (see above)
-- [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and contaning outdated information
+- [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and containing outdated information
 
 ## Development
 - [PaperMC Docs](https://docs.papermc.io) - Documentation for [PaperMC](https://papermc.io)
@@ -29,9 +29,9 @@ title: ㅤ
 - [Paper](https://papermc.io) - Paper server (performance-focused)
 - [Spigot](https://spigotmc.org) - Spigot project & plugin community
 - [Sponge](https://spongepowered.org) - Sponge project (servers/plugins)
-- [GeyserMC](https://geysermc.org) - Java/Bederock translation layer
+- [GeyserMC](https://geysermc.org) - Java/Bedrock translation layer
 - [ViaVersion](https://viaversion.com) - ViaVersion/ViaBackwards for version compatibility
-- [Leaves](https://leavesmc.org) - Fork of paper aimibg for fixing broken vanilla properties
+- [Leaves](https://leavesmc.org) - Fork of Paper aiming to fix broken vanilla properties
 - [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) - High performance fork of paper
 - [Purpur](https://purpurmc.org) - Fork of paper with more customizability
 - [Velocity](https://papermc.io/software/velocity) - Server proxy made by PaperMC
@@ -48,7 +48,7 @@ title: ㅤ
 - [Planetminecraft](https://www.planetminecraft.com/mods/)
 - [Feed the Beast](https://feed-the-beast.com) (Modpacks)
 - [NotEnoughMods](https://bot.notenoughmods.com/)
-<br>_I don't gurantee that any of the mods listed at these pages are safe. Use at your own risk._
+<br>_I don't guarantee that any of the mods listed at these pages are safe. Use at your own risk._
 
 ## Texture Packs
 - [Planetminecraft](https://www.planetminecraft.com)
@@ -98,16 +98,16 @@ title: ㅤ
 # Launcher(s)
 
 # List of Minecraft launchers
-- [Modrinth Launcher](https://modrinth.com/app) - Official Minecraft launcher from modrinth
-- [Prism Launcher](https://prismlauncher.org/) - Open source launcher with high customizablility
-- [Curseforge](https://www.curseforge.com/download/app) - Curseforge Launcher (Not just Minecraft)
+- [Modrinth Launcher](https://modrinth.com/app) - Official Minecraft launcher from Modrinth
+- [Prism Launcher](https://prismlauncher.org/) - Open source launcher with high customizability
+- [Curseforge](https://www.curseforge.com/download/app) - CurseForge Launcher (not just Minecraft)
 - [More...](https://github.com/deprecatedbrain/minecraft-launcher-index/)
 
 ## Tutorials for the default launcher
 - [How to launch a custom jar](https://www.minecraftforum.net/forums/support/java-edition-support/1871678-how-to-use-custom-jars-in-the-new-launcher) - How to launch a custom minecraft.jar in the default launcher (maybe outdated)
 - [How to install mods and mod loader](https://www.modland.net/minecraft/tutorials/how-to-install-minecraft-mods-detailed-guide.html) - A good guide that walks you through installing mods and a mod loader for the first time
 - [How to install a version](https://minecraft.wiki/w/Tutorial:Installing_a_version) - How to play old or future versions of minecraft
-- [How to install Minecraft Preview](https://minecraft.wiki/w/Tutorial:Bedrock_Edition_development_versions) - Installing the preview version (BE)
+- [How to install Minecraft Preview](https://minecraft.wiki/w/Tutorial:Bedrock_Edition_development_versions) - Installing the preview version (Bedrock Edition)
 
 # Community
 
@@ -116,6 +116,8 @@ title: ㅤ
 - [r/MinecraftMemes](https://www.reddit.com/r/MinecraftMemes/)
 - [r/minecraftsuggestions](https://www.reddit.com/r/minecraftsuggestions)
 - [r/mcservers](https://www.reddit.com/r/mcservers/) - Serverlist
-- [r/Mojira](https://www.reddit.com/r/Mojira/) - Subreddit of the minecraft bugtracker (not for bug reports)
+- [r/Mojira](https://www.reddit.com/r/Mojira/) - Subreddit of the Minecraft bug tracker (not for bug reports)
 - [r/MinecraftDungeons](https://www.reddit.com/r/MinecraftDungeons)
 - [r/realms](https://www.reddit.com/r/realms/) - Everything about BE Realms (the official server hosting)
+- [r/MinecraftBuddies](https://www.reddit.com/r/MinecraftBuddies/) - Find small groups of friends to play Minecraft with
+- [r/CompetitiveMinecraft](https://www.reddit.com/r/CompetitiveMinecraft/) - Discussions about all forms of PvP
