@@ -104,4 +104,6 @@ title: ㅤ
 
 ## Tutorials for the default launcher
 - [How to launch a custom jar](https://www.minecraftforum.net/forums/support/java-edition-support/1871678-how-to-use-custom-jars-in-the-new-launcher) - How to launch a custom minecraft.jar in the default launcher (maybe outdated)
-- 
+- [How to install mods and mod loader](https://www.modland.net/minecraft/tutorials/how-to-install-minecraft-mods-detailed-guide.html) - A good guide that walks you through installing mods and a mod loader for the first time
+- [How to install a version](https://minecraft.wiki/w/Tutorial:Installing_a_version) - How to play old or future versions of minecraft
+- [How to install Minecraft Preview](https://minecraft.wiki/w/Tutorial:Bedrock_Edition_development_versions) - Installing the preview version (BE)
