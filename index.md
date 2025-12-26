@@ -1,5 +1,5 @@
 ---
-title: Useful Minecraft tools
+title:    
 ---
 
 # Wikis and Knowledgebases
