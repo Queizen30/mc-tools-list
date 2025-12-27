@@ -12,3 +12,4 @@ exclude:
   - README.md
   - .github
   - NOTES.md
+  - CNAME
