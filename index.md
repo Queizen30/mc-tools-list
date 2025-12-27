@@ -1,5 +1,6 @@
 ---
 title: The List
+permalink: /
 ---
 
 This list contains about 100 items and took decision and time to find.
@@ -25,7 +26,9 @@ You can find a list of the contributors [here](/contributors).
 ## Cheatsheets and tools
 - [Cheatsheets](/cheatsheets/) - A list of cheatsheets i found
 - [Minecraft color pallete](https://colorswall.com/palette/3847) - In-game color pallete (e.g. wool, concrete)
-
+- [Chunkbase](https://chunkbase.com) - Seed map
+- [JacobSJO Map](https://map.jacobsjo.eu/) - Chunkbase (see above), but it can read data packs and preview terrain
+- [Pixel Circel Generator](https://donatstudios.com/PixelCircleGenerator) - Generate perfect circels in all sizes
 
 # Mod loaders and server software
 
@@ -195,3 +198,8 @@ You can find a list of the contributors [here](/contributors).
 
 ## Ressource pack generators
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) - QoL texture pack generator
+
+# Software
+
+## World manipulation
+- [Worldpainter](https://www.worldpainter.net/) - Map generator
