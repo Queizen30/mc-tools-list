@@ -13,3 +13,7 @@ exclude:
   - .github
   - NOTES.md
   - CNAME
+
+header_pages:
+  - index.md
+  - contributors.md
