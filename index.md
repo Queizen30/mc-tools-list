@@ -22,6 +22,7 @@ You can find a list of the contributors [here](/contributors).
 - [Bedrock Dev Docs](https://bedrock.dev) - Bedrock add-on & pack development
 - [Quilt Docs](https://wiki.quiltmc.org) - Quilt/loader docs & migration resources
 
+## Cheatsheets and tools
 # Mod loaders and server software
 
 ## Mod loaders
