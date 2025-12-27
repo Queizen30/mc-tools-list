@@ -62,6 +62,7 @@ title: ㅤ
 - [Iris Shaders](https://www.irisshaders.dev/) - Iris + Sodium support
 - [SEUS Shaders](https://sonicether.com/seus) - (Sonic Ether’s Unbelievable Shaders)
 - [Sildurs Shaders](https://sildurs-shaders.github.io/)
+- [Solas Shaders](https://modrinth.com/shader/solas-shader/versions)
 - [TexturePack.net](https://resourcepack.net/category/shader-packs/)
 - [Modrinth](https://modrinth.com/discover/shaders)
 - [Curseforge](https://www.curseforge.com/minecraft/search?&class=shaders)
