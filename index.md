@@ -1,5 +1,5 @@
 ---
-title: ㅤ
+title: Useful Minecraft tools
 ---
 
 # Wikis and Knowledgebases
@@ -62,7 +62,7 @@ title: ㅤ
 - [Iris Shaders](https://www.irisshaders.dev/) - Iris + Sodium support
 - [SEUS Shaders](https://sonicether.com/seus) - (Sonic Ether’s Unbelievable Shaders)
 - [Sildurs Shaders](https://sildurs-shaders.github.io/)
-- [Solas Shaders](https://modrinth.com/shader/solas-shader/versions) - (v1.8 is best)
+- [Solas Shaders](https://modrinth.com/shader/solas-shader/versions) - ([v1.8](https://modrinth.com/shader/solas-shader/version/1.8) is best)
 - [TexturePack.net](https://resourcepack.net/category/shader-packs/)
 - [Modrinth](https://modrinth.com/discover/shaders)
 - [Curseforge](https://www.curseforge.com/minecraft/search?&class=shaders)
@@ -130,3 +130,15 @@ title: ㅤ
 - [r/Minecraft_Survival](https://www.reddit.com/r/Minecraft_Survival/)
 - [r/technicalminecraft](https://www.reddit.com/r/technicalminecraft/) - Everyting from
 - [More...](https://www.reddit.com/r/Minecraft/wiki/related/)
+
+# Servers
+
+## Server Software
+- See [here](#server-software)
+
+## Server panels
+- [Multicraft](https://www.multicraft.org/) - Windows, Linux
+- [Fork](https://www.fork.gg/) - Windows
+- [Pterodactyl](https://pterodactyl.io/) - Linux
+- [AMP](https://cubecoders.com/AMP) - Windows, Linux (19€ or 38€ for lifetime)
+- [Puffer Panel](https://pufferpanel.com/) - Linux
