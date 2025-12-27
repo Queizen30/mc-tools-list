@@ -4,7 +4,7 @@ title: The List
 
 This list contains about 100 items and took decision and time to find.
 
-If you have any more items to add, found misstakes or think something fits better in another category, ... , you can open a [Issue](https://github.com/Queizen30/mc-tools-list/issues).
+If you have any more items to add, found misstakes or think something fits better in another category, etc., you can open a [Issue](https://github.com/Queizen30/mc-tools-list/issues).
 
 You can find a list of the contributors [here](/contributors).
 
@@ -24,6 +24,7 @@ You can find a list of the contributors [here](/contributors).
 
 ## Cheatsheets and tools
 - [Cheatsheets](/cheatsheets/) - A list of cheatsheets i found
+- [Minecraft color pallete](https://colorswall.com/palette/3847) - In-game color pallete (e.g. wool, concrete)
 
 
 # Mod loaders and server software
@@ -108,6 +109,7 @@ You can find a list of the contributors [here](/contributors).
 - [Crafting Recipe](https://crafting.thedestruc7i0n.ca/) - Create new crafting recipes
 - [Advancement Generator](https://advancements.thedestruc7i0n.ca/) - Advancement data pack generator
 - [Vanilla Tweaks](https://vanillatweaks.net/) - Generators for data packs, crafting tweaks and texture packs
+- [Bedrock Tweaks](https://bedrocktweaks.net/) - Unofficial fork of Vanilla Tweaks
 - [MCCreator](https://mcreator.net/about/minecraft-data-pack-maker) - Create Minecraft data packs (software)
 - [Data Pack Frameworks](https://ayfri.com/articles/datapack-generators/) - Blog post about datapack "frameworks"? (i have no idea, but i'll just list it here)
 
@@ -188,3 +190,8 @@ You can find a list of the contributors [here](/contributors).
 - [MCdle](https://www.mcdle.net/) - Wordle for Minecraft
 - [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft 0.0.23a_01 online (Official)
 - [Propertydle](https://joakimthorsen.github.io/MCPropertyEncyclopedia/propertydle/) - Like MCdle but with more categorys
+
+# Resource packs
+
+## Ressource pack generators
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) - QoL texture pack generator

@@ -15,4 +15,7 @@ You will only be listed here when directly contacting me. If I used your content
   - [Block Property Enclyclopedia](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw6ihap)
 
 - [_gid](https://l.qu30.qzz.io/l/r/_gid)
- - [Enchant Order](https://iamcal.github.io/enchant-order/)
+  - [Enchant Order](https://iamcal.github.io/enchant-order/)
+
+- [CrazyGamer24151](https://l.qu30.qzz.io/l/r/CrazyGamer24151)
+  - [Color pallete](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw800q9)
