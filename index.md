@@ -39,6 +39,9 @@ You can find a list of the contributors [here](/contributors).
 - [LiteLoader](https://www.liteloader.com/) - LiteLoader project
 - [NeoForge](https://neoforged.net/) - Modern fork of forge
 
+- [Project Amethyst](https://github.com/FrederoxDev/Amethyst) - Mod loader for BE (Windows)
+- [Horizon](https://icmods.mineprogramming.org/) - Mod loader for BE (Android)
+
 
 ## Server Software
 - [Paper](https://papermc.io) - Paper server (performance-focused)
@@ -118,6 +121,7 @@ You can find a list of the contributors [here](/contributors).
 
 # Other generators
 - [Moddery](https://ejd799.github.io/moddery/) - Open-source, web-based mod builder
+- [MCreator](https://mcreator.net/) - Create mods without coding experience
 
 # Launcher(s)
 
@@ -203,3 +207,48 @@ You can find a list of the contributors [here](/contributors).
 
 ## World manipulation
 - [Worldpainter](https://www.worldpainter.net/) - Map generator
+
+# Skins
+
+## Skin tools
+- [NameMC Tools section](https://de.namemc.com/skin/b84ac9a32c374ef1) - Invert skin colors, rotate a skin, add a santa hat (only during christmas)
+- [Cardboardify](https://xxlsteve.net/tools/cardboardify/) - Make the front of your skin paper, and the back cardboard
+- [Santafy](https://www.puttyland.com/santafy/) - Give your skin a santa hat (and beard)
+- [Flip skin texture](https://babutxa.github.io/flipMinecraftSkin/) - Flips your Minecraft skin backwards
+- [Flip skin texture](https://mcskins.top/flipskin) - The same as above, but you can choose body parts
+- [How to get a spinning skin](https://hypixel.net/threads/guide-how-to-get-a-spinning-skin.119949/) - Guide on how to get a spinning Minecraft skin GIF
+- [Skin Merger (Body parts)](https://mcskins.top/skinmerger) - Merge two skins
+- [Skin Merger (Body parts)](https://mcskinmerger.mrspinn.ca/) - The same thing as above, but with more skins
+- [Skin overlay merger](https://pavelgsalt.github.io/) - Merger skin overlays
+- [Skin merger](https://skinmerger.qu30.qzz.io/) - Merger two skins side by side (made by myself)
+
+## Editors
+- [Mineskin](https://www.mineskin.pro/editor) - The cleanest  editor i could find
+- [NeedCoolerShoes](https://needcoolershoes.com/) - Another clean editor with many features
+
+# Clients
+
+# JE Clienst
+- [Lunar Client](https://www.lunarclient.com/) - One of the biggest clients
+- [LabyMod](https://labymod.net/)
+- [Badolin](https://www.badlion.net/minecraft-client)
+- [Feather Client](https://feathermc.com/)
+- [More...](https://github.com/3000IQPlay/client-library) - Use clients on this list at your own risk
+
+## BE Clients
+- [Onix](https://onixclient.com/) - One of the biggest BE Clients
+- [Latite](https://latite.net/)
+
+## Hack Clients
+
+### JE Hack Clients
+- [Wurst](https://www.wurstclient.net/)
+- [Future](https://futureclient.net/) - Paid (25$ lifetime)
+- [Vape](https://www.vape.gg/) - Ghost client (=almost undetectable), paid 10$/m or 35$ lifetime
+- [Impact](https://impactclient.net/) - Outdated (<1.16.5)
+- [Meteor](https://www.meteorclient.com/)
+- [Baritone](https://github.com/cabaletta/baritone) - Automatic pathfinding/tasks
+
+### BE Hack Clients
+- [Borion](https://github.com/Borion-Updated)
+
