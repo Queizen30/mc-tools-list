@@ -14,8 +14,5 @@ exclude:
   - NOTES.md
   - CNAME
 
-navigation:
-  - title: Home
-    url: /
-  - title: Contributors
-    url: /contributors/
+titles_from_headings:
+  enabled: false
