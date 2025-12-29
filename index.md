@@ -3,15 +3,15 @@ title: The List
 permalink: /
 ---
 
-This list contains about 200 items and took decision and time to find. So if you had one of those moments (WHERE HAS THIS BEEN ALL MY LIFE?), I would enjoy if you could [give this repo a star on github](https://github.com/Queizen30/mc-tools-list). (Remember, only a few clicks!)
+This list contains about 200 items and took dedication and time to compile. So if you had one of those moments (WHERE HAS THIS BEEN ALL MY LIFE?), I would appreciate it if you could [give this repo a star on GitHub](https://github.com/Queizen30/mc-tools-list). (Remember, only a few clicks!)
 
-If you have any more items to add, found misstakes or think something fits better in another category, etc., you can open a [Issue](https://github.com/Queizen30/mc-tools-list/issues).
+If you have any more items to add, found mistakes or think something fits better in another category, etc., you can open an [Issue](https://github.com/Queizen30/mc-tools-list/issues).
 
-You can find a list of the contributors [here](/contributors).
+You can find a list of contributors [here](/contributors).
 
 ## Contents
 
-- [Wikis and Knowlegebases](#wikis-and-knowledgebases)
+- [Wikis and Knowledgebases](#wikis-and-knowledgebases)
     - [Base Game](#base-game)
     - [Development](#development)
     - [Archives](#archives)
@@ -25,9 +25,54 @@ You can find a list of the contributors [here](/contributors).
     - [Plugins](#plugins)
     - [Modpacks](#modpacks)
     - [Bedrock Addons](#bedrock-addons)
-- [Data packs, ressource packs, mods and commands](#data-packs-ressource-packs-mods-and-commands)
-    
-
+- [Data packs, resource packs, mods and commands](#data-packs-resource-packs-mods-and-commands)
+    - [Must have mods](#must-have-mods)
+    - [Command generators](#command-generators)
+    - [Data pack generators](#data-pack-generators)
+    - [Other generators](#other-generators)
+- [Launcher(s)](#launchers)
+    - [List of Minecraft launchers](#list-of-minecraft-launchers)
+    - [Tutorials for the default launcher](#tutorials-for-the-default-launcher)
+- [Community](#community)
+    - [Minecraft subreddits](#minecraft-subreddits)
+- [Servers](#servers)
+    - [Server Software](#server-software-1)
+    - [Server panels](#server-panels)
+    - [Tools for server owners/admins](#tools-for-server-ownersadmins)
+    - [Server sanners and statistics](#server-scanners-and-statistics)
+    - [Server lists](#server-lists)
+    - [Server hosts](#server-hosts)
+- [Games](#games)
+    - [Websites](#websites)
+- [Resource packs](#resource-packs)
+    - [Resource pack generators](#resource-pack-generators)
+- [Software](#software)
+    - [Worlds](#worlds)
+    - [Renderers](#renderers)
+    - [Editors](#editors)
+    - [3D Editors](#3d-editors)
+    - [Other](#other)
+- [Skins](#skins)
+    - [Skin tools](#skin-tools)
+    - [Editors](#editors-1)
+- [Clients](#clients)
+    - [JE clients](#je-clients)
+    - [BE clients](#be-clients)
+    - [Hack clients](#hack-clients)
+        - [JE hack clients](#je-hack-clients)
+        - [BE hack clients](#be-hack-clients)
+- [Cheatsheets and tools](#cheatsheets-and-tools)
+    - [Cheatsheets](#cheatsheets)
+    - [Online tools](#online-tools)
+        - [Worlds](#worlds-1)
+        - [Maps](#maps)
+        - [Building](#building)
+        - [Enchanting and anvils](#enchanting-and-anvils)
+        - [Other](#other-1)
+- [For the devs](#for-the-devs)
+    - [APIs](#apis)
+    - [Software](#software-1)
+    - [Online tools](#online-tools-1)
 
 # Wikis and Knowledgebases
 
@@ -36,7 +81,7 @@ You can find a list of the contributors [here](/contributors).
 - [Minecraft Wiki](https://minecraft.wiki) - Unofficial game documentation, tutorials, etc. (Tip: use mc.wiki for quick entering)
 - [Tutorials](https://minecraft.wiki/w/Tutorials) - Lots of tutorials from the Minecraft Wiki (see above)
 - [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and containing outdated information
-- [MC Property Encyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/) - View propertys of blocks,entitys or items
+- [MC Property Encyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/) - View properties of blocks, entities, or items
 - [MCPW](https://mcpk.miraheze.org/wiki/Main_Page) - Minecraft Parkour Wiki
 
 ## Development
@@ -48,7 +93,7 @@ You can find a list of the contributors [here](/contributors).
 - [MCAssets](https://mcasset.cloud/latest) - Browse Minecraft assets
 - [MCICONS](https://mcicons.ccleaf.com/) - Full-resolution item icons
 - [MC Titles](https://mctitles.com/) - Minecraft-styled fonts and official logos
-- [Omniarchive](https://omniarchive.uk/) - Comunity that focuses on preserving all official Minecraft content
+- [Omniarchive](https://omniarchive.uk/) - Community that focuses on preserving official Minecraft content
 
 # Mod loaders and server software
 
@@ -118,7 +163,7 @@ You can find a list of the contributors [here](/contributors).
 - [Bedrock Explorer](https://bedrockexplorer.com/) - Same as Chunk (see above)
 - [MCPEDL](https://mcpedl.com/) - Bedrock addons, etc.
 
-# Data packs, ressource packs, mods and commands
+# Data packs, resource packs, mods and commands
 
 ## Must-have mods
 - [Useful mods](https://github.com/TheUsefulLists/UsefulMods) - A list of useful mods
@@ -192,7 +237,7 @@ You can find a list of the contributors [here](/contributors).
 - [Puffer Panel](https://pufferpanel.com/) - Linux
 
 ## Tools for server owners/admins
-- [MC-Packs](https://mc-packs.net/) - Host a ressource pack for your server
+- [MC-Packs](https://mc-packs.net/) - Host a resource pack for your server
 - [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/) - Web-based live map
 - [spark](https://spark.lucko.me/) - Server profiling tool
 - [PLAN](https://www.playeranalytics.net/) - Player analytics tools
@@ -226,7 +271,7 @@ You can find a list of the contributors [here](/contributors).
 
 # Resource packs
 
-## Ressource pack generators
+## Resource pack generators
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) - QoL texture pack generator
 
 # Software
@@ -240,7 +285,7 @@ You can find a list of the contributors [here](/contributors).
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a seed
 
 ## Renderers
-- [MapCrafter](https://github.com/mapcrafter/mapcrafter) - High performace map renderer
+- [MapCrafter](https://github.com/mapcrafter/mapcrafter) - High-performance map renderer
 - [Chunky](https://chunky-dev.github.io/docs/) - Render worlds with pathtracing
 - [The Minecraft Overviewer](https://overviewer.org/) - High-resolution world renderer
 
@@ -248,7 +293,7 @@ You can find a list of the contributors [here](/contributors).
 - [NBT Studio](https://github.com/tryashtar/nbt-studio) - Edit `.dat`, `.mca`, `.mcr` and `.mcstructure` files
 
 ## 3D Editors
-- [Blockbench](https://blockbench.net/) - Great for ressource pack devs, also has web app
+- [Blockbench](https://blockbench.net/) - Great for resource pack devs, also has web app
 - [Mine-imator](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) - Animation software
 - [Modelbench](https://www.mineimatorforums.com/index.php?/topic/79256-modelbench-115/) - Modeling software for Mine-imator
 - [BDEngine](https://bdengine.app/) - Web app, but ... (where has this been all my life?)
@@ -313,7 +358,7 @@ You can find a list of the contributors [here](/contributors).
 ## Online Tools
 
 ### Worlds
-- [World Size Calculater](https://onlinemo.de/world) - Calculate the disk zize of a world
+- [World Size Calculator](https://onlinemo.de/world) - Calculate the disk size of a world
 - [Cubical](https://cubical.xyz/) - Web based map editor
 - [OreFinder](https://www.orefinder.gg/) - Much like x-ray, finds ores from a seed
 
@@ -321,14 +366,14 @@ You can find a list of the contributors [here](/contributors).
 - [Chunkbase](https://chunkbase.com) - Seed map
 - [JacobSJO Map](https://map.jacobsjo.eu/) - Chunkbase (see above), but it can read data packs and preview terrain
 - [MCSeedMap](https://mcseedmap.net/) - New version of chunkbase (unofficial)
-- [MCSeeder](https://www.mcseeder.com/) - Display an overwiev of a seed online
+- [MCSeeder](https://www.mcseeder.com/) - Display an overview of a seed online
 
 ### Building
 - [Pixel Circel Generator](https://donatstudios.com/PixelCircleGenerator) - Generate perfect circels in all sizes
 
 ### Enchanting and anvils
 - [Anvil enchanting optimizer](https://enchantmentoptimization.vercel.app/) - Optimize your enchanting in anvils to lose as less XP as possible
-- [Anvil enchanting optimizer]
+- [Enchantment ordering tool](https://iamcal.github.io/enchant-order/) - Almost the same thing as above, but a different name
 
 ### Other
 - [MC Utils](https://mcutils.com/) - Community powered Minecraft utilities for developers, builders and players
@@ -345,5 +390,5 @@ You can find a list of the contributors [here](/contributors).
 
 ## Online tools
 - [Loot tables generator](https://outils.carrade.eu/minecraft/loot_tables)
-- [MCBE Essentails](https://mcbe-essentials.github.io/) - Tools for BE
+- [MCBE Essentials](https://mcbe-essentials.github.io/) - Tools for BE
 - [Creator Tools](https://mctools.dev/) - Official tools for addon creation
