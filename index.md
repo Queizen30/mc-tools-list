@@ -388,6 +388,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [bridge.](https://bridge-core.github.io/) - An IDE for creating BE Addons (why does something like this exist?)
 - [MCreator](https://mcreator.net/) - Software for easily creating mods, addons, ressource packs and data packs
 - [Bedrock Wiki](https://wiki.bedrock.dev/) - tutorials and guides for creating BE addons
+- [Sinytra Connector](https://connector.sinytra.org/) - Run fabric mods on NeoForge
 
 ## Online tools
 - [Loot tables generator](https://outils.carrade.eu/minecraft/loot_tables)
