@@ -292,6 +292,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 
 ## Editors
 - [NBT Studio](https://github.com/tryashtar/nbt-studio) - Edit `.dat`, `.mca`, `.mcr` and `.mcstructure` files
+- [Notepad++](https://notepad-plus-plus.org/) - A editor that allows you to edit most Minecraft files that the normal editor can't edit
 
 ## 3D Editors
 - [Blockbench](https://blockbench.net/) - Great for resource pack devs, also has web app
@@ -375,6 +376,9 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 ### Enchanting and anvils
 - [Anvil enchanting optimizer](https://enchantmentoptimization.vercel.app/) - Optimize your enchanting in anvils to lose as less XP as possible
 - [Enchantment ordering tool](https://iamcal.github.io/enchant-order/) - Almost the same thing as above, but a different name
+
+### Graphis and design
+- [Wallpaper Generator](https://minecraft.novaskin.me/wallpapers) - Create wallpapers with you skin on them
 
 ### Other
 - [MC Utils](https://mcutils.com/) - Community powered Minecraft utilities for developers, builders and players
