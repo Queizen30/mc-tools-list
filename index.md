@@ -3,7 +3,7 @@ title: The List
 permalink: /
 ---
 
-This list contains about 100 items and took decision and time to find.
+This list contains about 200 items and took decision and time to find. So if you had one of those moments (WHERE HAS THIS BEEN ALL MY LIFE?), I would enjoy if you could [give this repo a star on github](https://github.com/Queizen30/mc-tools-list). (Remember, only a few clicks!)
 
 If you have any more items to add, found misstakes or think something fits better in another category, etc., you can open a [Issue](https://github.com/Queizen30/mc-tools-list/issues).
 
@@ -17,12 +17,18 @@ You can find a list of the contributors [here](/contributors).
 - [Tutorials](https://minecraft.wiki/w/Tutorials) - Lots of tutorials from the Minecraft Wiki (see above)
 - [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and containing outdated information
 - [MC Property Encyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/) - View propertys of blocks,entitys or items
+- [MCPW](https://mcpk.miraheze.org/wiki/Main_Page) - Minecraft Parkour Wiki
 
 ## Development
 - [PaperMC Docs](https://docs.papermc.io) - Documentation for [PaperMC](https://papermc.io)
 - [Bedrock Dev Docs](https://bedrock.dev) - Bedrock add-on & pack development
 - [Quilt Docs](https://wiki.quiltmc.org) - Quilt/loader docs & migration resources
 
+## Archives
+- [MCAssets](https://mcasset.cloud/latest) - Browse Minecraft assets
+- [MCICONS](https://mcicons.ccleaf.com/) - Full-resolution item icons
+- [MC Titles](https://mctitles.com/) - Minecraft-styled fonts and official logos
+- [Omniarchive](https://omniarchive.uk/) - Comunity that focuses on preserving all official Minecraft content
 
 # Mod loaders and server software
 
@@ -180,6 +186,7 @@ You can find a list of the contributors [here](/contributors).
 ## Server lists
 - [FindMCServer](https://findmcserver.com/) - The official server list
 - [Minecraft.buzz](https://minecraft.buzz/) - Clean list without ads
+- [NameMC](https://namemc.com/minecraft-servers) - Another clean one
 
 ## Server hosts
 - [Free hosts](https://myuui.com/) - A list of free hosts
@@ -212,6 +219,25 @@ You can find a list of the contributors [here](/contributors).
 - [uNmINeD](https://unmined.net/) - World viewer and mapper tool
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a seed
 
+## Renderers
+- [MapCrafter](https://github.com/mapcrafter/mapcrafter) - High performace map renderer
+- [Chunky](https://chunky-dev.github.io/docs/) - Render worlds with pathtracing
+- [The Minecraft Overviewer](https://overviewer.org/) - High-resolution world renderer
+
+## Editors
+- [NBT Studio](https://github.com/tryashtar/nbt-studio) - Edit `.dat`, `.mca`, `.mcr` and `.mcstructure` files
+
+## 3D Editors
+- [Blockbench](https://blockbench.net/) - Great for ressource pack devs, also has web app
+- [Mine-imator](https://www.mineimatorforums.com/index.php?/topic/90789-mine-imator-202/) - Animation software
+- [Modelbench](https://www.mineimatorforums.com/index.php?/topic/79256-modelbench-115/) - Modeling software for Mine-imator
+- [BDEngine](https://bdengine.app/) - Web app, but ... (where has this been all my life?)
+
+
+## Other
+- [image-map](https://github.com/tryashtar/image-map) - Convert images to maps
+- [Open Noteblock Studio](https://noteblock.studio/) - Open-source Minecraft music editor
+
 # Skins
 
 ## Skin tools
@@ -229,6 +255,9 @@ You can find a list of the contributors [here](/contributors).
 ## Editors
 - [Mineskin](https://www.mineskin.pro/editor) - The cleanest  editor i could find
 - [NeedCoolerShoes](https://needcoolershoes.com/) - Another clean editor with many features
+- [PMCSkin3D](https://www.planetminecraft.com/skin-editor/) - Aadvanced and basic editor
+- [Novaskin](https://minecraft.novaskin.me/) - A few ads
+- [Blockbench](https://www.blockbench.net/) - Software, but has web app
 
 # Clients
 
@@ -266,6 +295,7 @@ You can find a list of the contributors [here](/contributors).
 ### Worlds
 - [World Size Calculater](https://onlinemo.de/world) - Calculate the disk zize of a world
 - [Cubical](https://cubical.xyz/) - Web based map editor
+- [OreFinder](https://www.orefinder.gg/) - Much like x-ray, finds ores from a seed
 
 ### Maps
 - [Chunkbase](https://chunkbase.com) - Seed map
@@ -278,3 +308,22 @@ You can find a list of the contributors [here](/contributors).
 
 ### Enchanting and anvils
 - [Anvil enchanting optimizer](https://enchantmentoptimization.vercel.app/) - Optimize your enchanting in anvils to lose as less XP as possible
+- [Anvil enchanting optimizer]
+
+### Other
+- [MC Utils](https://mcutils.com/) - Community powered Minecraft utilities for developers, builders and players
+
+# For the devs
+
+## APIs
+- [Minerender](https://minerender.org/) - Render items, skins, blocks, etc.
+
+## Software
+- [bridge.](https://bridge-core.github.io/) - An IDE for creating BE Addons (why does something like this exist?)
+- [MCreator](https://mcreator.net/) - Software for easily creating mods, addons, ressource packs and data packs
+- [Bedrock Wiki](https://wiki.bedrock.dev/) - tutorials and guides for creating BE addons
+
+## Online tools
+- [Loot tables generator](https://outils.carrade.eu/minecraft/loot_tables)
+- [MCBE Essentails](https://mcbe-essentials.github.io/) - Tools for BE
+- [Creator Tools](https://mctools.dev/) - Official tools for addon creation
