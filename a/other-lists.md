@@ -1,0 +1,7 @@
+This is a list of other lists of useful Minecraft tools. (A bit confusing, I know.)
+
+- [awesome-minecraft](https://github.com/bs-community/awesome-minecraft) - by bs-community
+- [Useful Minecraft Links](https://xxlsteve.net/blog/useful-minecraft-links/) - by XXL Steve
+- [Commonly used tools](https://learn.microsoft.com/en-us/minecraft/creator/documents/commonlyusedtools) - A BE Learn article by Microsoft?!
+- [The best Minecraft websites](https://wizzley.com/the-best-minecraft-websites/) - by Seelyon
+- [Best websites for server owners](https://minelabz.com/blog/minecraft-websites-for-server-owners/) - by Rad Ivanov
