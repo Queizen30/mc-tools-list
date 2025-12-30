@@ -1,4 +1,9 @@
-# list-minecraft-websites
-A list of useful Minecraft websites, tools, mods, …
+# LUMT
+A list of useful Minecraft tools/websites/programms/etc.
 
-https://mctools.qu30.qzz.io
+You can view the list [here](https://lumt.qu30.qzz.io/lumt).
+
+Every update, chanchelog can be found [here](#). (Coming soon...)
+
+> [!CAUTION]
+> This project is licensed under [GNU General Public License v3.0](/COPYING)
