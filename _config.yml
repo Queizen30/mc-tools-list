@@ -14,3 +14,6 @@ exclude:
   - NOTES.md
   - CNAME
   - LICENSE
+
+header_pages:
+  - index.md
