@@ -374,6 +374,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [JacobSJO Map](https://map.jacobsjo.eu/) - Chunkbase (see above), but it can read data packs and preview terrain
 - [MCSeedMap](https://mcseedmap.net/) - New version of chunkbase (unofficial)
 - [MCSeeder](https://www.mcseeder.com/) - Display an overview of a seed online
+- [Seed.GG](https://www.seeds.gg/) - Another seed map
 
 ### Building
 - [Pixel Circel Generator](https://donatstudios.com/PixelCircleGenerator) - Generate perfect circels in all sizes
@@ -406,3 +407,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Loot tables generator](https://outils.carrade.eu/minecraft/loot_tables)
 - [MCBE Essentials](https://mcbe-essentials.github.io/) - Tools for BE
 - [Creator Tools](https://mctools.dev/) - Official tools for addon creation
+
+## Other
+- [Data Pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) - [VS Code](https://code.visualstudio.com) Extension: Heavy language features for Minecraft: Java Edition data pack file
+- [NBTViewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt) - VS COde extension: View Minecraft NBT and 3D structures
