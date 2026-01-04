@@ -8,7 +8,7 @@ markdown: kramdown
 minima:
   skin: dark
   nav_pages:
-    - index.md
+    - a/index.md
     - lumt.md
     - contributors.md
 
