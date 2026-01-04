@@ -1,25 +1,19 @@
 <style>
   .site-footer-custom-lumt {
-    /* Follow Minima: do not set `width`; let `max-width` control layout */
-    /* Ensure padding does not change the measured text width when site uses border-box */
-    box-sizing: content-box;
+    width: 100%;
     /* Match Minima: content-width (800px) minus 2 * spacing-unit (30px) = 740px */
-    max-width: -webkit-calc(800px - (30px * 2));
     max-width: calc(800px - (30px * 2));
     margin: 0 auto;
-    /* Use Minima spacing so the text measure matches exactly */
-    padding-right: 30px;
-    padding-left: 30px;
+    padding: 0 1.25rem;
+    box-sizing: border-box;
   }
-  /* Mirror Minima breakpoint: at <=800px the wrapper uses content-width - spacing-unit (770px)
-     and halves the spacing (15px) for left/right padding. */
-  @media screen and (max-width: 800px) {
-    .site-footer-custom-lumt {
-      max-width: -webkit-calc(800px - 30px);
-      max-width: calc(800px - 30px);
-      padding-right: 15px;
-      padding-left: 15px;
-    }
+  /* Mirror Minima's breakpoint where the wrapper uses content-width - spacing-unit (770px) */
+  @media (max-width: 800px) {
+    .site-footer-custom-lumt { max-width: calc(800px - 30px); }
+  }
+
+  @media (max-width: 1000px) {
+    .site-footer-custom-lumt { padding: 0 1rem; }
   }
 </style>
 
