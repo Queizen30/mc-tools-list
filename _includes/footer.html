@@ -1,6 +1,8 @@
 <style>
   .site-footer-custom-lumt {
-    width: 100%;
+    /* Follow Minima: do not set `width`; let `max-width` control layout */
+    /* Ensure padding does not change the measured text width when site uses border-box */
+    box-sizing: content-box;
     /* Match Minima: content-width (800px) minus 2 * spacing-unit (30px) = 740px */
     max-width: -webkit-calc(800px - (30px * 2));
     max-width: calc(800px - (30px * 2));
