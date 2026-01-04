@@ -4,16 +4,15 @@
     /* Match Minima: content-width (800px) minus 2 * spacing-unit (30px) = 740px */
     max-width: calc(800px - (30px * 2));
     margin: 0 auto;
-    padding: 0 1.25rem;
-    box-sizing: border-box;
+    /* Use Minima spacing so the text measure matches exactly */
+    padding: 0 30px;
+    /* Minima uses the default content-box model; ensure we match that */
+    box-sizing: content-box;
   }
-  /* Mirror Minima's breakpoint where the wrapper uses content-width - spacing-unit (770px) */
+  /* Mirror Minima breakpoint: at <=800px the wrapper uses content-width - spacing-unit (770px)
+     and halves the spacing (15px) for left/right padding. */
   @media (max-width: 800px) {
-    .site-footer-custom-lumt { max-width: calc(800px - 30px); }
-  }
-
-  @media (max-width: 1000px) {
-    .site-footer-custom-lumt { padding: 0 1rem; }
+    .site-footer-custom-lumt { max-width: calc(800px - 30px); padding: 0 15px; }
   }
 </style>
 
