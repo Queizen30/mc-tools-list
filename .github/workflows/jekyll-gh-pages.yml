@@ -12,6 +12,7 @@ on:
       - 'CNAME'
       - 'NOTES.md'
       - '.vscode/**'
+      - 'assets/media/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
