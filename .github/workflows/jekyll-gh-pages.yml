@@ -11,6 +11,7 @@ on:
       - '.github/**'
       - 'CNAME'
       - 'NOTES.md'
+      - '.vscode/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

@@ -14,7 +14,8 @@ minima:
 
 exclude:
   - README.md
-  - .github
+  - .github/
+  - .vscode
   - NOTES.md
   - CNAME
   - LICENSE
