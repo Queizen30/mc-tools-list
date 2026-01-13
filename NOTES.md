@@ -5,5 +5,6 @@ https://mct.thedutchruben.nl/
 https://minecraft-development-directory.github.io/en  
 https://minecraft-stats.fr/  
 https://www.fibermc.com/  
+https://bloxelizer.com/
 
 IDEAS:
