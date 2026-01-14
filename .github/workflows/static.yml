@@ -2,7 +2,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ["switch-to-own-theme"] # Change this to your default branch
+    branches: ["main"] # Change this to your default branch
     paths-ignore:
       - 'README.md'
       - 'LICENSE'
