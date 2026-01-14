@@ -50,3 +50,8 @@ a:hover {
   margin-left: 15%;
   height: fit-content;
 }
+
+.footer {
+  text-align: center;
+  padding: 8px;
+}

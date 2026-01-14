@@ -5,6 +5,8 @@ permalink: /contributors/
 Don't want to be on this list? [Contact me](https://github.com/Queizen30#contact-me-).  
 You will only be listed here when directly contacting me. If I used your contents and you want to be on this list too, once again, please [contact me](https://github.com/Queizen30#contact-me-).
 
+- [Zac Durham](https://github.com/PapaZ810) (First contributor creating a issue on GitHub)
+  - [DiscoPanel, Crafty Control]
 - [MinecraftPlayer799](https://l.qu30.qzz.io/l/r/MinecraftPlayer799/)
   - [Moddery](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw5y465/)
   - [Solas Shaders](https://www.reddit.com/r/Minecraft/comments/1pwsuxt/comment/nw5ylra/)
