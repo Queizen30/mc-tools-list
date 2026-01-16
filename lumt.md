@@ -49,12 +49,13 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
     - [Websites](#websites)
 - [Resource packs](#resource-packs)
     - [Resource pack generators](#resource-pack-generators)
+    - [Other](#other)
 - [Software](#software)
     - [Worlds](#worlds)
     - [Renderers](#renderers)
     - [Editors](#editors)
     - [3D Editors](#3d-editors)
-    - [Other](#other)
+    - [Other](#other-1)
 - [Skins](#skins)
     - [Skin tools](#skin-tools)
     - [Editors](#editors-1)
@@ -72,7 +73,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
         - [Building](#building)
         - [Enchanting and anvils](#enchanting-and-anvils)
         - [Coordinates](#coordinates)
-        - [Other](#other-1)
+        - [Armor Trims](#armor-trims)
+        - [Other](#other-2)
 - [For the devs](#for-the-devs)
     - [Mods](#mods-1)
     - [Docs](#docs)
@@ -80,7 +82,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
     - [Software](#software-1)
     - [Online tools](#online-tools-1)
     - [Bugtrackers](#bugtrackers)
-    - [Other](#other-2)
+    - [Other](#other-3)
 
 # Wikis, Archives and Tutorials
 
@@ -91,6 +93,11 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Old Wiki](https://minecraft.fandom.com) - Old wiki spammed with ads and containing outdated information
 - [MC Property Encyclopedia](https://joakimthorsen.github.io/MCPropertyEncyclopedia/) - View properties of blocks, entities, or items
 - [MCPW](https://mcpk.miraheze.org/wiki/Main_Page) - Minecraft Parkour Wiki
+- [MCDF Wiki](https://mcdf.wiki.gg/) - Minecraft Discontinued Features Wiki
+- [All Minecraft Banners](https://allminecraftbanners.com/) - Contains all 1,475,646,641,940,097,552 banners in Minecraft
+- [MCTiers](https://mctiers.com/) - Minecraft PvP Leaderboards
+- [Minecraft Timeline](https://minecraft-timeline.github.io/) - A timeline of updates over the years, also see [here](https://minecraft.wiki/w/Java_Edition_version_history) or [here](https://minecraft.wiki/w/Bedrock_Edition_version_history) for BE. [Here's](https://www.digminecraft.com/version_history/) another one
+- [Unobtainibles BE](https://docs.google.com/document/u/0/d/e/2PACX-1vS1IwFjVyqJHJGYZtCHvwBJTyXw3rrIFuz27NOoerANvuVedYBKNPTTFOkDAQbWxPvsanoWaGoZHN9h/pub?pli=1) - Unobtainable - Version History/Bedrock Edition, Java Edition & Xbox 360 Edition
 
 ## Archives
 - [MCAssets](https://mcasset.cloud/latest) - Browse Minecraft assets
@@ -106,7 +113,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 ## Tutorials
 - [JSON Usage and Syntax in Commands](https://www.minecraftforum.net/forums/minecraft-java-edition/redstone-discussion-and/351959-1-12-json-text-component-for-tellraw-title-books) - Last updated 1.12
 - [Tutorials for the default launcher](#tutorials-for-the-default-launcher)
-
+- [Glass Mix Gradient](https://www.planetminecraft.com/project/glass-mix-gradient-fog-water-etc-color-guide/) - Examples [here](https://imgur.com/a/glass-mix-two-tone-glass-mixing-oBXIIoM)
 
 # Mod loaders and server software
 
@@ -142,6 +149,10 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [ModDB](https://www.moddb.com/games/minecraft)
 - [Planetminecraft](https://www.planetminecraft.com/mods/)
 - [NotEnoughMods](https://bot.notenoughmods.com/)
+
+- [1.1.2_01 Mods](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3099584-thezygas-made-by-me-alpha-1-1-2_01-mods-2021-retro)
+- [Coordinates for Alpha and Infdev](https://modrinth.com/mod/coordinates-(old-mc)) - This is a jarmod that adds coordinates to Minecraft Alpha and Infdev debug menus
+
 <br>_I don't guarantee that any of the mods listed at these pages are safe. Use at your own risk._
 
 ## Texture Packs
@@ -150,6 +161,13 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Curseforge](https://www.curseforge.com/minecraft/texture-packs)
 - [Modrinth](https://modrinth.com/)
 - [Minecraft Forum Resource Packs](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs)
+
+- [Faithful](https://faithfulpack.net/) - Higher resolution texture packs
+- [Merl's Official Trailer Textures](https://modrinth.com/resourcepack/merls-official-trailer-textures) - The official Minecraft trailer / promotional textures extracted from the Merl support agent background
+- [Programmer Art Continuation](https://modrinth.com/resourcepack/pacp) - A high effort continuation of Programmer Art, covering assets from 1.13-1.21+
+- [Fixed Vanilla](https://mcpedl.com/fixed-vanilla/) - Fixes a lot of issues in the game related to textures, models, animations, particles, and more
+- [The Holiday Chests](https://www.curseforge.com/minecraft/texture-packs/the-holiday-chests) - Fixes the inconsistent holiday chest feature for JE + adds unique textures to the copper chests and its variants
+- [Settings Button Fix](https://www.curseforge.com/minecraft-bedrock/texture-packs/settings-button-fix) - The Settings button swaps places with the "Browse Addons!" button in the pause menu, as god intended. (BE)
 
 ## Shaders
 - [Optifine](https://optifine.net) - Classic shader support + performance
@@ -201,6 +219,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 # Other generators
 - [Moddery](https://ejd799.github.io/moddery/) - Open-source, web-based mod builder
 - [MCreator](https://mcreator.net/) - Create mods without coding experience
+- [Itsme64 Converters](https://convertmcpack.net/) - Many fixers, converters, tutorials, ...
 
 # Launcher(s)
 
@@ -209,6 +228,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Prism Launcher](https://prismlauncher.org/) - Open source launcher with high customizability
 - [Curseforge](https://www.curseforge.com/download/app) - CurseForge Launcher (not just Minecraft)
 - [More...](https://github.com/deprecatedbrain/minecraft-launcher-index/)
+
+- [Betacraft](https://betacraft.uk/) - Betacraft Launcher supports all still existing versions of Minecraft before 1.6 and is providing easy access to them
 
 - [BedrockLauncherLite](https://bedrocklauncher.github.io/) - Unofficial BE Launcher for Windows
 - [Amethyst Launcher](https://github.com/FrederoxDev/Amethyst-Launcher)
@@ -292,6 +313,9 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) - QoL texture pack generator
 - [Minecraft Painting Generator](https://www.mcpaintings.com/) - Generate Minecraft paintings from your own images and view them in-game
 
+## Other
+- [Texture Pack Test World](https://www.curseforge.com/minecraft-bedrock/maps/texture-pack-test-map) - This map is aimed to help resource pack developers. Featuring all vanilla blocks, biomes, structures, and entities. Along side some secrets and Easter Eggs.
+
 # Software
 
 ## Worlds
@@ -301,6 +325,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Chunker](https://www.chunker.app/) - World converter
 - [uNmINeD](https://unmined.net/) - World viewer and mapper tool
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a seed
+- [Cubiomes Viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer
 
 ## Renderers
 - [MapCrafter](https://github.com/mapcrafter/mapcrafter) - High-performance map renderer
@@ -321,6 +346,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 ## Other
 - [image-map](https://github.com/tryashtar/image-map) - Convert images to maps
 - [Open Noteblock Studio](https://noteblock.studio/) - Open-source Minecraft music editor
+- [Image2Banner](https://github.com/MARSTeamMC/Image2Banners) - Converts images into complex Minecraft banners
+- [mcOpticalGenesis](https://github.com/theonlytruemuck/mcOpticalGenisis) - an app to convert any pixel art into a minecraft structure file
 
 # Skins
 
@@ -335,6 +362,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Skin Merger (Body parts)](https://mcskinmerger.mrspinn.ca/) - The same thing as above, but with more skins
 - [Skin overlay merger](https://pavelgsalt.github.io/) - Merger skin overlays
 - [Skin merger](https://skinmerger.qu30.qzz.io/) - Merger two skins side by side (made by myself)
+- [Skin Converter](https://util.gflash.eu/mcskinconverter/) - Convert Minecraft skins from wide to slim or slim to wide models
 
 ## Editors
 - [Mineskin](https://www.mineskin.pro/editor) - The cleanest  editor i could find
@@ -388,9 +416,20 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [MCSeedMap](https://mcseedmap.net/) - New version of chunkbase (unofficial)
 - [MCSeeder](https://www.mcseeder.com/) - Display an overview of a seed online
 - [Seed.GG](https://www.seeds.gg/) - Another seed map
+- [Seedmap.APP](https://www.seedmap.app/) - Another one (+ some cools seeds)
+
+- [Monolith finder](https://kahomayo.github.io/monolith-renderer/) - Monolith finder for versions inf-20100611 to a1.1.2_01
 
 ### Building
 - [Pixel Circel Generator](https://donatstudios.com/PixelCircleGenerator) - Generate perfect circels in all sizes
+- [HueBlocks](https://1280px.github.io/hueblocks/) - Create beautiful block gradients in a few clicks
+- [Gradient Generator](https://malachyfernandez.github.io/minecraftGradient/) - A highly customizable, visually interactive Minecraft block gradient generator
+- [BlockPallets](https://www.blockpalettes.com/) - Find eye pleasing palettes to build with
+- [Minecraft Cirlce Generator](https://minecraftcirclegenerator.app/en) - Create perfect circles for your Minecraft builds in seconds
+- [BlockColors.net](https://blockcolors.app/) - Create your Minecraft palette
+- [Plotz](https://www.plotz.co.uk/) - Generate Spheres, Ellipsoids, Torus and more in your web browser
+- [Shaper Generator](https://www.domegenmc.com/) - Visualize domes, cones, and layers with on-canvas controls
+- [Pixel Shape Generator](https://cquinn.dev/pixel-shape-generator/) - A tool for generating a variety of pixelated shapes
 
 ### Enchanting and anvils
 - [Anvil enchanting optimizer](https://enchantmentoptimization.vercel.app/) - Optimize your enchanting in anvils to lose as less XP as possible
@@ -402,8 +441,23 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 ### Coordinates
 - [BlockTools](https://blocktools.deep-orbit.com/) - Direction Finder, Nether Portacl Calculator, Block Distance and other things
 
+### Armor Trims
+- [ArmourTrims.com](https://www.armortrims.com/) - Website to create and share armor trim combinations
+- [MineTrim](https://minetrim.com/) - Design your own armor trims with ease and make it match your skin. Read how to find all the trims futher down
+
+### Maparts
+- [MC Map Item Tool](https://mc-map.djfun.de/)
+- [Minecraft Map Maker](https://www.minecraftmapmaker.com/)
+- [MapArtCraft](https://rebane2001.com/mapartcraft/)
+- [MCStacker Murals](https://mcstacker.net/murals/) - This generator lets you import png, jpg and gif files and converts them into commands which create the image as a giant pixel art mural on your Minecraft map 
+- [Block.Tools](https://blocky.tools/maps) - Map to PNG is an MC map.dat file(s) to PNG tool
+
 ### Other
 - [MC Utils](https://mcutils.com/) - Community powered Minecraft utilities for developers, builders and players
+- [MCDF Tools and Ressources](https://mcdf-tools.github.io/)
+- [Cape Studio](https://www.stroepwafel.au/cape-studio) - Turn your capes into a single, shareable image
+- [PMC Banner Editor](https://www.planetminecraft.com/banner/) - Allows you to create Minecraft banner designs with all the patterns and colors from the game + Massive banner library
+- [Banner Letters](https://www.gamergeeks.net/apps/minecraft/banners/letters) - Minecraft banners letter alphabet, A-Z, with color selector for base and letter color
 
 # For the devs
 

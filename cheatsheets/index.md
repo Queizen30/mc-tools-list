@@ -10,3 +10,4 @@ If you found any more, please open an [issue](https://l.qu30.qzz.io/l/gh/queizen
 - [Various keybinds](files/various_keybinds.pdf) - Keybinds from Vanilla, Minihud, Item Scroller and Tweakeroo ([Source](https://cheatography.com/bullshit/cheat-sheets/mc/#google_vignette))
 - [Trading Guide](trading-guide) - For JE 1.21.4+
 - [Skin Templates](https://minecraft.wiki/w/Skin#Templates) - Various skin templates
+- [Mindcrack](mindcrack)
