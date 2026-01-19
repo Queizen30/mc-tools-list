@@ -18,6 +18,9 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
     - [Base Game](#base-game)
     - [Archives](#archives)
     - [Tutorials](#tutorials)
+- [Inspiritaion](#inspiration)
+    - [Building](#building)
+    - [Things to do when bored](#things-to-do-when-bored)
 - [Mod loaders and server software](#mod-loaders-and-server-software)
     - [Mod loaders](#mod-loaders)
     - [Server software](#server-software)
@@ -70,7 +73,7 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
     - [Online tools](#online-tools)
         - [Worlds](#worlds-1)
         - [Maps](#maps)
-        - [Building](#building)
+        - [Building](#building-1)
         - [Enchanting and anvils](#enchanting-and-anvils)
         - [Coordinates](#coordinates)
         - [Armor Trims](#armor-trims)
@@ -115,6 +118,17 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Tutorials for the default launcher](#tutorials-for-the-default-launcher)
 - [Glass Mix Gradient](https://www.planetminecraft.com/project/glass-mix-gradient-fog-water-etc-color-guide/) - Examples [here](https://imgur.com/a/glass-mix-two-tone-glass-mixing-oBXIIoM)
 
+# Inspiration
+
+## Building
+- [Giant list of subreddits](https://www.reddit.com/r/Minecraftbuilds/comments/ckwbyq/looking_for_build_inspiration_heres_a_giant_list/) - Real life subreddits for build inspiration
+- [r/minecraftbuilds](https://www.reddit.com/r/Minecraftbuilds/)
+
+## Things to do when bored
+- [A needlessly long list of things to do in Minecraft](https://www.reddit.com/r/Minecraft/comments/5u6p3w/a_needlessly_long_list_of_things_to_do_in/)
+- [A needlessly long list of things to do in modded Minecraft](https://www.reddit.com/r/feedthebeast/comments/dfs41j/a_needlessly_long_list_of_things_to_do_in_modded/) - Also check out [this](https://web.archive.org/web/20201112033251/https://docs.google.com/document/d/1vZaqt9WlpKQ4TLhaSIlM9hjjmRTuvvO6Ea64fwk5Vzs/edit) (this is the link from the end of the post)
+
+
 # Mod loaders and server software
 
 ## Mod loaders
@@ -152,6 +166,9 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 
 - [1.1.2_01 Mods](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3099584-thezygas-made-by-me-alpha-1-1-2_01-mods-2021-retro)
 - [Coordinates for Alpha and Infdev](https://modrinth.com/mod/coordinates-(old-mc)) - This is a jarmod that adds coordinates to Minecraft Alpha and Infdev debug menus
+- [MITE Useful Links](https://www.reddit.com/r/MITE/comments/1o3f1ph/useful_link_list_including_installation_guide/) - MITE (Minecraft is too easy) is one of the hardest mods out there, here are some useful links
+- [Singleplayer mods](https://www.reddit.com/r/Minecraft/comments/16j6oaj/what_are_the_goto_mods_to_make_the_single_player/) - A few mods to make singleplayer more fun
+- [Client-side mods](https://docs.google.com/document/d/1KHzF_oSLnaTnYzjDwgy8A1oqtMxMjQBAa3ojzercWwk) - A list of some useful client side-mods
 
 <br>_I don't guarantee that any of the mods listed at these pages are safe. Use at your own risk._
 
@@ -188,6 +205,8 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Technic](https://www.technicpack.net/modpacks)
 - [Curseforge](https://www.curseforge.com/minecraft/search?&class=modpacks)
 - [ATLauncher](https://atlauncher.com/packs/all)
+
+- [Expert Progression Modpacks](https://www.reddit.com/r/feedthebeast/comments/107pfpj/expert_progression_modpacks_a_list_of_the_most/) - A list of the modpacks with the hardest progression (More [here](https://www.reddit.com/r/feedthebeast/comments/xetsky/list_of_minecraft_rpgexperienceskilllevel_mods_as/))
 
 ## Bedrock Addons
 - [Curseforge](https://www.curseforge.com/minecraft-bedrock) - Addons, Texture packs, scripts, maps and skins
@@ -428,8 +447,9 @@ _This website is still in beta. It's not complete yet. Please report bugs or sug
 - [Minecraft Cirlce Generator](https://minecraftcirclegenerator.app/en) - Create perfect circles for your Minecraft builds in seconds
 - [BlockColors.net](https://blockcolors.app/) - Create your Minecraft palette
 - [Plotz](https://www.plotz.co.uk/) - Generate Spheres, Ellipsoids, Torus and more in your web browser
-- [Shaper Generator](https://www.domegenmc.com/) - Visualize domes, cones, and layers with on-canvas controls
+- [Shape Generator](https://www.domegenmc.com/) - Visualize domes, cones, and layers with on-canvas controls
 - [Pixel Shape Generator](https://cquinn.dev/pixel-shape-generator/) - A tool for generating a variety of pixelated shapes
+- [Another Shape Generator](https://new.oranj.io/sphere/)
 
 ### Enchanting and anvils
 - [Anvil enchanting optimizer](https://enchantmentoptimization.vercel.app/) - Optimize your enchanting in anvils to lose as less XP as possible

@@ -12,6 +12,8 @@ LUMT is a non-profit project, wich means that I don't want to make any money wit
     - Add a blog post
     - Something other
 - Become a [Supporter](/a/become-supporter)
+- If you mind spending a few dollars
+    - Buy a domain for LUMT (See [here](/a/buy-lumt-a-domain))
 
 ### How do you manage this site?
 I use GitHub Pages for hosting, and a free domain for the domain. See [this](/a/how-does-lumt-work).
