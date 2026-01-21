@@ -3,14 +3,8 @@ name: Deploy static content to Pages
 on:
   push:
     branches: ["main"] # Change this to your default branch
-    paths-ignore:
-      - 'README.md'
-      - 'LICENSE'
-      - '.github/**'
-      - 'CNAME'
-      - 'NOTES.md'
-      - '.vscode/**'
-      - 'assets/media/**'
+    paths:
+      - '_site/**'
 
   workflow_dispatch:
 
