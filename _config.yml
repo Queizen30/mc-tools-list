@@ -16,6 +16,7 @@ exclude:
   - NOTES.md
   - CNAME
   - LICENSE
+  - TODO.md
 
 defaults:
   -
